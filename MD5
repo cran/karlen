@@ -1,0 +1,11 @@
+3108b6d47fba710b9cfa67879968fd69 *DESCRIPTION
+2a207a9258970c0ae6ab72a3b0c2d1e4 *NAMESPACE
+73aabc20dd15fff81c309541ec7b1a23 *NEWS.md
+caa643b541b89982fdfaf9250ebfce86 *R/data.R
+02f96b408a75410f54dedc454548a9b2 *R/karlen-package.R
+5d06be494455473ad355e04a2070b4fb *README.md
+20c8d3f97d93e2e318a22508275b5a02 *build/partial.rdb
+23508db02f525ca7d05705f7060a0912 *data/karlen.rda
+5e398a92c959e156b4a38e888adf9f17 *man/figures/README-example-1.png
+4de37a7c55e158810a823e48e59eb1cc *man/karlen-package.Rd
+28cc1c5e05a0c678b2ccbf9ae6ee9fb1 *man/karlen.Rd
